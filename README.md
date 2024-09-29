@@ -36,5 +36,5 @@ The inspiration for Meal Mission came from a profound realization of the immense
 4. Start the development server using `npm start` for frontend.
 5. Start the development server using `npm run dev` for backend.
 
-<video src="https://streamable.com/hdwzuu" controls title="Title"></video>
-alternative links : https://streamable.com/hdwzuu
+<video src="https://drive.google.com/file/d/1EA8RJhxYTc7mObII1GrimFgHrA4Oqqvc/view" controls title="Title"></video>
+alternative links : [https://streamable.com/hdwzuu](https://drive.google.com/file/d/1EA8RJhxYTc7mObII1GrimFgHrA4Oqqvc/view)
